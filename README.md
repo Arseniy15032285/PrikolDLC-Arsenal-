@@ -1,5 +1,5 @@
 # PrikolDLC 
-- An Arsenal script with "wow" design
+- An Arsenal script with "Zenin" design
 
 - Script state: **ALPHA**
 
